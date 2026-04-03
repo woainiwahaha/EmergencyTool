@@ -12,6 +12,10 @@
 
 ### WinLogCheckV3.4.1 综合检测（兼容性高）
 
+1、需要右键管理员运行，加载完成后 会弹出GUI界面
+
+2、GUI弹出后，先将GUI最大化，在点击具体功能点
+
 ```
 https://github.com/Fheidt12/Windows_Log
 ```
